@@ -1,7 +1,7 @@
 import pandas as pd
 from sqlalchemy import create_engine
 
-endpoint = 'serratus-aurora-20210223.cluster-ro-ccz9y6yshbls.us-east-1.rds.amazonaws.com'
+endpoint = 'serratus-aurora-20210225.cluster-ro-ccz9y6yshbls.us-east-1.rds.amazonaws.com'
 database = 'summary'
 username = 'public_reader'
 password = 'serratus'
